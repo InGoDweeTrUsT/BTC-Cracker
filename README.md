@@ -2,11 +2,11 @@
  <h1 align="center">🔱 BTC CRACKER 🔱</h1>
  <h2 align="center">Screenshot</h2>
 <p align="center">
-  <img src="1.png" alt="Logo" />
+  <img src="https://github.com/M0nTan3/BTC-Cracker/blob/main/1.png" alt="Logo" />
 </p>
  <h2 align="center">Demo</h2>
 <p align="center">
-  <img src="1.mp4" alt="video" />
+  <img src="https://github.com/M0nTan3/BTC-Cracker/blob/main/Mont3an%20BTC%20Cracker.mp4" alt="video" />
 </p>
 ## Features
 
