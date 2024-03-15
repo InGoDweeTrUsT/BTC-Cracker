@@ -19,7 +19,7 @@
 <h2>Requirements</h2>
 <ul>
   <li><span style="color: #2ECC40;">windows 11 - 10 - 8</span></li>
-  <li><span style="color: #0074D9;">+2 GB RAM</span></li>
+  <li><span style="color: #0074D9;">+4 GB RAM</span></li>
   <li><span style="color: #0074D9;">i3 gen 6 or higher CPU</span></li>
 <ul>
 
