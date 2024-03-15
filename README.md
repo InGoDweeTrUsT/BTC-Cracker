@@ -5,9 +5,7 @@
   <img src="1.jpg" alt="Logo" />
 </p>
  <h2 align="center">Demo</h2>
-<video controls width="600px" height="400px">
-  <source src="1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video src='1.mp4' width=180/>
 </video>
 ## Features
 
