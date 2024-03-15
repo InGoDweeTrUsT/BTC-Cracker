@@ -10,7 +10,7 @@
 <br>
 - auto add combo list
 <br>
-- autp update word list
+- auto update word list
 <br>
 - Set cpu consumption as desired
 <br>
