@@ -5,9 +5,10 @@
   <img src="https://github.com/M0nTan3/BTC-Cracker/blob/main/1.png" alt="Logo" />
 </p>
  <h2 align="center">Demo</h2>
-<p align="center">
-  <img src="https://github.com/M0nTan3/BTC-Cracker/blob/main/Mont3an%20BTC%20Cracker.mp4" alt="video" />
-</p>
+<video controls width="400">
+  <source src="https://github.com/M0nTan3/BTC-Cracker/raw/main/Mont3an%20BTC%20Cracker.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ## Features
 
 - auto add proxy list
