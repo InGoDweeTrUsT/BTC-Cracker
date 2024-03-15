@@ -2,7 +2,7 @@
  <h1 align="center">🔱 BTC CRACKER 🔱</h1>
  <h2 align="center">Screenshot</h2>
 <p align="center">
-  <img src="https://github.com/M0nTan3/BTC-Cracker/blob/main/1.png" alt="Logo" />
+  <img src="https://github.com/M0nTan3/BTC-Cracker/blob/main/1.png](https://github.com/M0nTan3/BTC-Cracker/blob/main/1.jpg" alt="Logo" />
 </p>
  <h2 align="center">Demo</h2>
 <video controls width="600" height="400">
