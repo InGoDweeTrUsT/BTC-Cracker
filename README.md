@@ -7,9 +7,13 @@
 
 <h2>Features</h2>
 - auto add proxy list
+<br>
 - auto add combo list
+<br>
 - autp update word list
+<br>
 - Set cpu consumption as desired
+<br>
 - optimazie for any cpu
 
 <h2>Requirements</h2>
