@@ -4,11 +4,8 @@
 <p align="center">
   <img src="1.jpg" alt="Logo" />
 </p>
- <h2 align="center">Demo</h2>
-<video src='1.mp4' width=180/>
-</video>
-## Features
 
+<h2>Features</h2>
 - auto add proxy list
 - auto add combo list
 - autp update word list
