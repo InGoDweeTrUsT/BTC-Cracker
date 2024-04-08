@@ -1,6 +1,6 @@
 
  <h1 align="center">🔱 BTC CRACKER 🔱</h1>
- <h2 align="center">Screenshot.</h2>
+ <h2 align="center">Screenshot</h2>
 <p align="center">
   <img src="1.jpg" alt="Logo" />
 </p>
